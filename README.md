@@ -1,3 +1,6 @@
+The program that uses a dictionary and lists.
+
+
 The program
 
 • gets two inputs from the user.
